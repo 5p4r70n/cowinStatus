@@ -1,6 +1,5 @@
 import requests
 import json
-from operator import itemgetter
 from datetime import date
 from flask import Flask, jsonify, request
 
@@ -36,13 +35,9 @@ def listOut():
 			tempList.append([b["date"],b["available_capacity"],b["min_age_limit"],b["vaccine"],b["available_capacity_dose1"],b["available_capacity_dose2"]])
 		tempList.append(aviDoses)
 		mainList.append(tempList)
-	# print(mainList)
-	# sorted_list = sorted(mainList, key=itemgetter(1))
-	# print(sorted_list)
 	def myFunc(e):
 		return e[-1]
 	mainList.sort(key=myFunc,reverse=True)
-	# print(mainList)
 	return mainList
 
 @app.route('/', methods = ['GET', 'POST'])
