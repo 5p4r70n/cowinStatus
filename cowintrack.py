@@ -39,6 +39,7 @@ def listOut():
 		return e[-1]
 	mainList.sort(key=myFunc,reverse=True)
 	return mainList
+	print(mainList)
 
 @app.route('/', methods = ['GET', 'POST'])
 def home():
