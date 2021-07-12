@@ -1,0 +1,44 @@
+566094,AIMS Site 1,Amrita Hospital Ponekkara P. O Kochi Kerala,Kerala,Ernakulam,Cheranalloor PHC,682041,10,76
+731595,P S Mission - Maradu,P S Mission Hospital Maradu Maradu,Kerala,Ernakulam,Nettoor PHC,682304,9,76
+732295,City Hosp - MG Road,City Hospital Mahatma Gandhi Rd Opp. Padma Theatre Padma Junction Pullepady,Kerala,Ernakulam,Nettoor PHC,682035,9,76
+563126,MOSC Medical College Hospital,Bus Stop Kolenchery Medical College Junction Kolenchery Ernakulam Kerala,Kerala,Ernakulam,Vadavucode CHC,682311,9,76
+731587,Vimala - Kanjoor,Vimala Hospital Kanjoor Kalady - Aluva Rd Kanjoor,Kerala,Ernakulam,Kalady CHC,683575,10,76
+569820,PVS Memorial Hospital Ekm,Banerji Rd Opp Gokulam Park Kaloor,Kerala,Ernakulam,Nettoor PHC,682017,9,76
+672824,Railway Health Unit Ernakulam,Railway Health Unit Ernakulam South,Kerala,Ernakulam,Nettoor PHC,682011,9,76
+155526,Govt. HSS Elamakkara,Puthukkalavattom Rd Near Punnakkal Junction Elamakkara,Kerala,Ernakulam,Cheranalloor PHC,682026,10,76
+155136,Palluruthy Govt. UP School,Illath Nagar Palluruthy,Kerala,Ernakulam,Kumbalangi CHC,682006,9,76
+654167,SABINE HOSPITAL MUVATTUPUZHA 1,Pezhakkappilly P.O Muvattupuzha Kerala India,Kerala,Ernakulam,Pandappilly CHC,686661,10,76
+565037,Ernakulam Vaccination Centre,Banerji Rd Opp Gokulam Park Kaloor,Kerala,Ernakulam,Nettoor PHC,682017,9,76
+575498,Lisie Hospital Ernakulam,Lisie Hospital Rd North Kaloor Kaloor Ernakulam Kerala,Kerala,Ernakulam,Nettoor PHC,682018,9,76
+155511,Fatima Church Hall Elamkulam,Sahodaran Ayyappan Rd Elamkulam,Kerala,Ernakulam,Nettoor PHC,682020,9,76
+633044,Sangeeth Hospital Mattancherry,No. 5-1496 South Cherlai Mattancherry Cochin,Kerala,Ernakulam,Kumbalangi CHC,682002,9,76
+682546,YMCA Palarivattom,YMCA Road Opp. Ernakulam Medical Centre Hospital Ernakulam Kerala,Kerala,Ernakulam,Cheranalloor PHC,682025,9,76
+742663,PENSION BHAVAN PALLURUTHY,PENSION BHAVAN PALLURUTHY,Kerala,Ernakulam,Kumbalangi CHC,682006,10,76
+579224,Medical Trust Hospital Ekm,Mahatma Gandhi Rd Pallimukku Kochi Kerala,Kerala,Ernakulam,Nettoor PHC,682016,9,76
+579125,Renai Medicity Ernakulam,Near Palarivattom Metro Station Palarivattom P.O Kochi Kerala,Kerala,Ernakulam,Nettoor PHC,682025,10,76
+748505,ST PETERS HSSS KUMBALANGHY,ST PETERS HSSS KUMBALANGHY,Kerala,Ernakulam,Kumbalangi CHC,682007,10,76
+579664,Gautham Hospital,PB-868 Mons. Mathew Kothakathu Rd Panayappilly Kochi Kerala,Kerala,Ernakulam,Kumbalangi CHC,682005,9,76
+579642,Vathiyayath Hospital,Perumbavoor Puthencruz Road Perumbavoor Ernakulam Cochin Kerala,Kerala,Ernakulam,Vengoor CHC,683542,10,76
+751772,MAJ - Edappally Site 2,MAJ Hospital Market Road Edappally,Kerala,Ernakulam,Cheranalloor PHC,682024,10,76
+751780,MAJ - Edappally Site 3,MAJ Hospital Market Road Edappally,Kerala,Ernakulam,Cheranalloor PHC,682024,10,76
+759361,KG Angamaly,Angamaly Ernakulam District Kochi,Kerala,Ernakulam,Ankamali TH,683572,10,76
+758744,Krishna Hosp - Shenoys,Krishna Hospital Chittoor Rd Opposite Maharajas College Ground Shenoys Kochi Kerala,Kerala,Ernakulam,Nettoor PHC,682011,9,76
+758274,Chaithanya Hospital-N.Paravur,Court Side Road Near Police Station Mookambika Temple North Paravur Ernakulam Kerala,Kerala,Ernakulam,Ezhikara CHC,683513,10,76
+758985,V G Saraf - Ravipuram,V G Saraf Memorial Hospital Sreekandath Road Ravipuram Perumanoor,Kerala,Ernakulam,Nettoor PHC,682016,9,76
+759232,Rajagiri - Aluva,Rajagiri Hospital Near GTN Junction Chunangamvely Aluva,Kerala,Ernakulam,Malayadamthuruth CHC,683112,10,76
+751571,St Josephs Hospital- Eloor,St. Josephs Hospital Trust Manjummel Eloor,Kerala,Ernakulam,Varappuzha CHC,683501,10,76
+579207,Devi Hospital Thrippunithura,North Fort Gate Near To NSS College Thrippunithura Kochi Kerala,Kerala,Ernakulam,Keechery CHC,682301,9,76
+762319,SANJOE-PERUMBAVOOR,San Joe Hospital Rd Perumbavoor Kerala,Kerala,Ernakulam,Vengoor CHC,683542,10,76
+581080,Sabine Hospital Muvattupuzha,Pezhakkappilly Muvattupuzha Kerala,Kerala,Ernakulam,Pandappilly CHC,686673,10,76
+784011,KG-PRIVVAX(APOLLO ADLUX),Angamaly Ernakulam District Kochi,Kerala,Ernakulam,Ankamali TH,683572,10,76
+579679,City Hospital Ernakulam,Mahatma Gandhi Rd Opp. Padma Theatre Padma Junction Pullepady Ernakulam,Kerala,Ernakulam,Nettoor PHC,682035,9,76
+783988,Chaithanya (PrivVax-Apollo),Court Side Road Near Police Station Mookambika Temple North Paravur Ernakulam Kerala,Kerala,Ernakulam,Ankamali TH,683513,10,76
+784462,City Hosp-PRIVVAX-APOLLO ADLUX,City Hospital Mahatma Gandhi Rd Opp. Padma Theatre Padma Junction Pullepady,Kerala,Ernakulam,Ankamali TH,682035,9,76
+784051,Gautham-PRIVVAX(APOLLO ADLUX),PB-868 Mons. Mathew Kothakathu Rd Panayappilly Kochi Kerala,Kerala,Ernakulam,Ankamali TH,682005,9,76
+784562,MAJ Hospital (PRIVVAX-APOLLO),MAJ Hospital Market Road  Edappally Ernakulam,Kerala,Ernakulam,Ankamali TH,682024,10,76
+783997,VIMALA-PRIVVAX(APOLLO ADLUX),Vimala Hospital Kanjoor Kalady - Aluva Rd Kanjoor,Kerala,Ernakulam,Ankamali TH,683575,10,76
+784799,Charis - PRIVVAX APOLLO ADLUX,Charis Hospital Mudavoor P. O. Muvattupuzha,Kerala,Ernakulam,Ankamali TH,686669,10,76
+155128,Kakkanad FHC,Kakkanad Pallikara Rd Thrikkakara Kakkanad,Kerala,Ernakulam,Cheranalloor PHC,682030,10,76
+561681,Aster Medcity Hospital,Aster Dm Healthcare Ltd Kuttisahib Road Cheranelloor South Chittoor Kochi Kerala,Kerala,Ernakulam,Cheranalloor PHC,682027,10,76
+788250,IGCH - Cochin,Indira Gandhi Co-Operative Hospital Gandhi Nagar Road Opposite Rajiv Gandhi Indoor Stadium Gandhi Nagar Kadavanthra,Kerala,Ernakulam,Nettoor PHC,682020,9,76
+580334,Sunrise Hospital Kakkanad,Seaport - Airport Rd Thrikkakara Kakkanad Kerala,Kerala,Ernakulam,Cheranalloor PHC,682030,10,76
