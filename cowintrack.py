@@ -22,6 +22,23 @@ app=Flask(__name__)
 # scheduler.init_app(app)
 # scheduler.start()
 
+districtDict={301:"Alappuzha",307:"Ernakulam",306:"Idukki",297:"Kannur",295:"Kasaragod",298:"Kollam",304:"Kottayam",305:"Kozhikode",302:"Malappuram",308:"Palakkad",300:"Pathanamthitta",296:"Thiruvananthapuram",303:"Thrissur",299:"Wayanad"}
+
+districts = ""
+districtCode=0
+for hj in districtDict:
+    districts=districts+ districtDict[hj] +" : "+ str(hj) +"\n"
+
+stat=False
+while not stat:
+    districtCode=input(districts +"\n"+ "enter your destrict code and contrinue : ")
+    if int(districtCode) in districtDict:
+        stat=True
+        print("\n \n \n Success goto the given link and check the status \n \n \n")
+    else:
+        print("\n \n Enter correct code TRY AGAIN \n \n ")
+
+
 def listOut():
 	header= {
 		"Accept": "application/json, text/plain, */*",
@@ -39,7 +56,7 @@ def listOut():
 	s =requests.session()
 	mainList=[]
 	# for d in krlDst:	
-	output=s.get("https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id=307&date="+today.strftime("%d-%m-%Y"),headers=header).text
+	output=s.get("https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id="+str(districtCode)+"&date="+today.strftime("%d-%m-%Y"),headers=header).text
 	#print(output)
 	output=json.loads(output)
 	centers=output["centers"]
