@@ -107,12 +107,20 @@ def listOut():
 @app.route("/",methods=['POST','GET'])                #first line / represents the route dir 
 def home():
 	if(request.method == 'GET'):
-		data = listOut()
+		data = 0
+		a=True
+		while a:
+			try:
+				data=listOut()
+				a=False
+			except:
+				a=True
+				print("data fetching return an err")
 		def myFunc(e):
 			return e[-4]
 		data.sort(key=myFunc)
 
-		don="<html><head><meta http-equiv='refresh' content='30'></head><table><tr>"
+		don="<html><head><meta http-equiv='refresh' content='5'></head><table><tr>"
 		if len(data)>0:
 			for i in data:
 				don=don+"<td> District: <b>"+str(i[4])+"</b></td><td> Center name: <b>"+str(i[1])+"</b></td><td> pincode: <b>"+str(i[2])+"</b> </td><td> Free/Paid: <b>"+str(i[3])+"</b> </td><td> people portal: <b>"+str(i[-3])+"</b> </td><td> for employees portal : <b>"+str(i[-2])+"</b> </td><td> total : <b>"+str(i[-1])+"</b> </td> </tr>"
